@@ -1,4 +1,6 @@
-export const App = () => {
+import Goods from './Goods';
+
+const App = () => {
   return (
     <div
       style={{
@@ -10,7 +12,9 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework template
+      <Goods />
     </div>
   );
 };
+
+export default App;
