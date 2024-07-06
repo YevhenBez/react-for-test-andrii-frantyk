@@ -1,3 +1,69 @@
-.parcelFilledStyle {
+.divGoods {
+    display: flex;
+    align-items: center; 
+}
+
+.divGoods__divParcelFilled {
+    background: #E7ECFA;
+    padding: 15px;
+    border-radius: 10px;
+    margin-right: 25px;
+}
+
+.divGoods__divParcelFilled__style {
     fill: #6377E2;
+}
+
+.divGoods__headline {
+    font-family: 'Typography', sans-serif;
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: bold;
+    margin: 0px 0px 15px 0px;
+}
+
+.divGoods__text {
+    display: flex;
+    align-items: center; 
+}
+
+.divGoods__text__kind {
+    font-family: 'Urbanist', sans-serif;
+        font-size: 18px;
+        line-height: normal;/* Автоматическое значение для межстрочного интервала */
+        font-weight: bold;
+        color: white;
+        background: #6377E2;
+        margin: 0px;
+        padding: 9px 35px;
+        border-radius: 30px;
+        display: flex;
+        align-items: center;
+}
+
+.divGoods__text__other {
+    display: flex;
+    align-items: center; 
+}
+
+.divGoods__text__other__dot {
+        font-family: 'Urbanist', sans-serif;
+        font-size: 38px;
+        font-weight: bold;
+        margin: 0px 20px;
+        display: flex;
+        align-items: center;
+        transform: translateY(-3mm); /* Adjust this value as needed */
+        color: #989898;
+}
+
+.divGoods__text__other__money {
+    font-family: 'Urbanist', sans-serif;
+        font-size: 18px;
+        line-height: normal;/* Автоматическое значение для межстрочного интервала */
+        font-weight: bold;
+        margin: 0px;
+        display: flex;
+            align-items: center;
+            color: #989898;
 }
