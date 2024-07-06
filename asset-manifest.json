@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-for-test-andrii-frantyk/static/css/main.4f85a16a.css",
-    "main.js": "/react-for-test-andrii-frantyk/static/js/main.032b7fb1.js",
+    "main.css": "/react-for-test-andrii-frantyk/static/css/main.1f36d8b4.css",
+    "main.js": "/react-for-test-andrii-frantyk/static/js/main.a8b17117.js",
     "index.html": "/react-for-test-andrii-frantyk/index.html",
-    "static/media/sprite-icon.svg": "/react-for-test-andrii-frantyk/static/media/sprite-icon.67ed26e86f63de046ebe30a9e94176cb.svg",
-    "main.4f85a16a.css.map": "/react-for-test-andrii-frantyk/static/css/main.4f85a16a.css.map",
-    "main.032b7fb1.js.map": "/react-for-test-andrii-frantyk/static/js/main.032b7fb1.js.map"
+    "static/media/sprite-icon.svg": "/react-for-test-andrii-frantyk/static/media/sprite-icon.ce925607b02e58551735205dc0c95ca3.svg",
+    "main.1f36d8b4.css.map": "/react-for-test-andrii-frantyk/static/css/main.1f36d8b4.css.map",
+    "main.a8b17117.js.map": "/react-for-test-andrii-frantyk/static/js/main.a8b17117.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f85a16a.css",
-    "static/js/main.032b7fb1.js"
+    "static/css/main.1f36d8b4.css",
+    "static/js/main.a8b17117.js"
   ]
 }
